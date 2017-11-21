@@ -1,10 +1,20 @@
 # Learn-Solidity
 Learn Solidity - Contract Oriented Language for Ethereum Smart contracts
 
-There are terms unheard in following Document which freaks the hell out and its better to say Scary.
-But the whole thing is sweetest pancakes Swetter you ever had. The whole concept is ragging the future of internet - Web3.0 branched on [Blockchain](https://en.wikipedia.org/wiki/Blockchain). Blockchain was conceptualised in 2008 by an anonymous person or group known as Satoshi Nakamoto comes in light after its implementation in BitCoin
+Solidity currently available resources data or unheard terms gives a hard time to understand it. We tried our best to ease it a bit. Understanding Solidity Carefully is very important because each line and word worth money.
+
+## What is Solidity?
+
+Solidity is a statically typed, **contract programming language** that has similarities to Javascript and C++. Like objects in OOP, each contract contains state variables, functions, and common data types. Contract-specific features include modifier (guard) clauses, event notifiers for listeners, and custom global variables.
+
+## Why Solidity is Important?
+
+The whole thing related to Solidity is like having a sweetest pancake ever. 
+
+The whole concept is ragging the future of internet - Web 3.0 branched on [Blockchain](https://en.wikipedia.org/wiki/Blockchain). Blockchain was conceptualised in 2008 by an anonymous person or group known as Satoshi Nakamoto comes in light after its implementation in BitCoin
 
 If you have no idea what Solidity or this is first time to heard name Ethereum or Contract or Some of you have an idea about Solidity how to learn this language. 
+
 ## Solidity 
 
 Solidity is a statically typed, **contract programming language** that has similarities to Javascript and C++. Like objects in OOP, each contract contains state variables, functions, and common data types. Contract-specific features include modifier (guard) clauses, event notifiers for listeners, and custom global variables.
