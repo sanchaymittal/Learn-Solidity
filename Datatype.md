@@ -2,6 +2,10 @@
 
 unit - unsigned integer of 256 bits
 
+Example : 
+``` uint storedData; ```
+
+This line declares a state variable called storedData of type uint.
 
 ### address
 
