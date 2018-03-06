@@ -5,3 +5,6 @@ List of Sources
 3. https://learnxinyminutes.com/docs/solidity/
 4. Book - Introducing Ethereum and Solidity
 5. Videos - [What's Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto)
+6. Use Remix a Solidity online Editor
+7. Videos - Checkout Siraj Raval Channel
+8. Medium Posts
